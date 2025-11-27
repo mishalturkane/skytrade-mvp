@@ -15,9 +15,17 @@ function Footer() {
 
     {/* Right */}
     <div className="order-3 md:order-none flex gap-6 text-sm">
+    <a
+        href="https://www.mishalturkane.xyz"
+        className="hover:text-[#14F195] font-normal transition-colors"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Built by Mishal Turkane
+      </a>
       <a
         href="https://x.com/mishaldotrwa"
-        className="hover:text-[#14F195] font-normal transition-colors"
+        className="hover:text-[#9945FF] font-normal transition-colors"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -25,19 +33,13 @@ function Footer() {
       </a>
       <a
         href="https://github.com/mishalturkane/solanahub"
-        className="hover:text-[#9945FF] font-normal transition-colors"
+        className="hover:text-[#14F195] font-normal transition-colors"
         target="_blank"
         rel="noopener noreferrer"
       >
         GitHub
       </a>
-      <a
-        href="https://www.mishalturkane.xyz"
-        className="hover:text-[#14F195] font-normal transition-colors"
-         target="_blank"
-      >
-        Pertfolio
-      </a>
+    
     </div>
   </div>
 </div>
