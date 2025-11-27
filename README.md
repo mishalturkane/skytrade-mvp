@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 SkyTrade — Tokenized Air Rights Marketplace
 
-## Getting Started
+SkyTrade is a decentralized platform built on Solana to tokenize and trade 
+urban Air Rights & Telecom Infrastructure as Real World Assets (RWAs).
 
-First, run the development server:
+This project showcases:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+• Authentic wallet connection using Solana Wallet Adapter  
+• Live marketplace of 20 tokenized U.S. air-rights assets  
+• Search functionality for location / property / token symbol  
+• Progressive “Show More” asset reveal for better UX  
+• Purchase flow replaced with a modal:
+   “Coming soon! I am joining SkyTrade to build this 🚀”
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📍 Concept
+The vertical airspace above every building has financial value.
+SkyTrade unlocks the ability to buy, sell, and invest in that value.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🎯 Vision
+Open a new digital economy where:
+Cities grow upward.
+Telecom networks scale smarter.
+Ownership reaches the sky.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🏗️ Built Using
+• Next.js + TypeScript
+• TailwindCSS UI
+• Solana Wallet Adapter
+• Web3.js (placeholder transaction logic)
 
-## Learn More
+⚡ Future Unlocks
+• Smart contract-driven purchase & escrow
+• SPL token asset ownership
+• Real estate + telecom partner onboarding
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🛩️ “Trade The Future Of Urban Space”
+# skytrade-mvp
