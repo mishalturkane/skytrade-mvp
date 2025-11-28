@@ -47,7 +47,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${spaceGrotesk.variable} antialiased`}>
-        <Providers> <Appbar/>{children} <Footer/></Providers>
+        <Providers>{children} <Footer/></Providers>
       </body>
     </html>
   );
